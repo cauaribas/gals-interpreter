@@ -1,3 +1,5 @@
+package interpreter;
+
 public class Token
 {
     private int id;
